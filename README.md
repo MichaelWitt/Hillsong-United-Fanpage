@@ -1,5 +1,5 @@
 # Hillsong-United-Fanpage
-Welcome to the Hillsong United Fanpage! I hope you love it :)
+Welcome to my Hillsong United Fanpage! I hope you love it :)
 
 ## Hillsong United
 
@@ -20,7 +20,7 @@ View the website at: https://michaelwitt.github.io/Hillsong-United-Fanpage/
 View the repository at: https://github.com/MichaelWitt/Hillsong-United-Fanpage/
 
 Website Preview: ![alt text](https://michaelwitt.github.io/Hillsong-United-Fanpage/images/hillsong_mainpage.png)
-Website Bio: ![alt text](https://michaelwitt.github.io/Hillsong-United-Fanpage/images/hillsong_videos.png)
+Website Demo: ![alt text](https://michaelwitt.github.io/Hillsong-United-Fanpage/images/hillsong_videos.png)
 
 ## Updates
 
